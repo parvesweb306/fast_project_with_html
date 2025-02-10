@@ -326,15 +326,3 @@ body {
 }
 
 
-.content-section{
-    max-width: 100vw;
-}
-.content-image{
-    width: 90vw;
-}
-.slideshow-img{
-    overflow: hidden;
-    max-width: 100%;
-    /* border: 30px solid green; */
-
-}
